@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
-<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-         xsi:noNamespaceSchemaLocation="schema.xsd">
+<Hotels xmlns:xsi="https://kentma-6534.github.io/cse445_a4/Hotels.xml"
+         xsi:noNamespaceSchemaLocation="https://kentma-6534.github.io/cse445_a4/HotelSchema.xsd">
   <Hotel id="1">
     <Name>Westin</Name>
     <Rating>4.2</Rating>
@@ -39,6 +39,97 @@
       <City>Phoenix</City>
       <State>AZ</State>
       <Zip>85004</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+  </Hotel>
+  <Hotel id="4">
+    <Name>Hilton Phoenix Resort</Name>
+    <Rating>4.0</Rating>
+    <Phone>602-957-9191</Phone>
+    <Address>
+      <Number>2625</Number>
+      <Street>W Dunlap Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85021</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+  </Hotel>
+  <Hotel id="5">
+    <Name>Renaissance Phoenix</Name>
+    <Rating>4.1</Rating>
+    <Phone>602-333-0000</Phone>
+    <Address>
+      <Number>100</Number>
+      <Street>N 1st St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+  </Hotel>
+  <Hotel id="6">
+    <Name>DoubleTree by Hilton</Name>
+    <Rating>4.0</Rating>
+    <Phone>602-225-0500</Phone>
+    <Address>
+      <Number>2100</Number>
+      <Street>S Priest Dr</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+  </Hotel>
+  <Hotel id="7">
+    <Name>Embassy Suites by Hilton</Name>
+    <Rating>4.2</Rating>
+    <Phone>480-897-7444</Phone>
+    <Address>
+      <Number>4400</Number>
+      <Street>S Rural Rd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85282</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+  </Hotel>
+  <Hotel id="8">
+    <Name>Holiday Inn Express</Name>
+    <Rating>3.9</Rating>
+    <Phone>480-968-7000</Phone>
+    <Address>
+      <Number>1031</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport>
+  </Hotel>
+  <Hotel id="9">
+    <Name>Best Western</Name>
+    <Rating>3.8</Rating>
+    <Phone>480-968-7000</Phone>
+    <Address>
+      <Number>1025</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+    <NearestAirport>Phoenix Sky Harbor</NearestAirport> 
+  </Hotel>
+  <Hotel id="10">
+    <Name>Quality Inn</Name>
+    <Rating>3.7</Rating>
+    <Phone>480-968-7000</Phone>
+    <Address>
+      <Number>1025</Number>
+      <Street>E Apache Blvd</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
     </Address>
     <NearestAirport>Phoenix Sky Harbor</NearestAirport>
   </Hotel>
