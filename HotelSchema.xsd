@@ -1,5 +1,8 @@
 <?xml version="1.0"?>
-<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema-instance">
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+           targetNamespace="https://kentma-6534.github.io/cse445_a4/HotelSchema.xsd"
+           xmlns="https://kentma-6534.github.io/cse445_a4/HotelSchema.xsd"
+           elementFormDefault="qualified">
   <xs:element name="Hotels">
     <xs:complexType>
       <xs:sequence>
