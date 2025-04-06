@@ -1,6 +1,7 @@
 <?xml version="1.0"?>
-<Hotel xmlns:xsi="https://kentma-6534.github.io/cse445_a4/Hotels.xml"
-         xsi:noNamespaceSchemaLocation="https://kentma-6534.github.io/cse445_a4/HotelSchema.xsd">
+<Hotel 
+  xmlns:xsi="https://kentma-6534.github.io/cse445_a4/Hotels.xml"
+  xsi:noNamespaceSchemaLocation="https://kentma-6534.github.io/cse445_a4/HotelSchema.xsd">
   <Hotel id="1">
     <Name>Westin</Name>
     <Rating>4.2</Rating>
